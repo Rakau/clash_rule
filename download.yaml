@@ -1,4 +1,5 @@
 payload:
+#Nintendo Switch
  - DOMAIN,consumer.lp1.npns.srv.nintendo.net
  - DOMAIN,ctest-dl-lp1.cdn.nintendo.net
  - DOMAIN,ctest-ul-lp1.cdn.nintendo.net
@@ -10,3 +11,8 @@ payload:
  - DOMAIN-SUFFIX,shop.nintendo.net
  - DOMAIN-SUFFIX,eshop.nintendo.net
  - DOMAIN-SUFFIX,d4c.nintendo.net
+#Dragon Quest X
+ - DOMAIN,download.dqx.jp
+ - DOMAIN,download.happy.dqx.jp
+ - DOMAIN,cache.dqx.jp
+ 
