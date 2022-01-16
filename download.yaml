@@ -1,1 +1,12 @@
-
+payload:
+ - DOMAIN,consumer.lp1.npns.srv.nintendo.net
+ - DOMAIN,ctest-dl-lp1.cdn.nintendo.net
+ - DOMAIN,ctest-ul-lp1.cdn.nintendo.net
+ - DOMAIN,bcat-data-lp1.cdn.nintendo.net
+ - DOMAIN,bcat-list-lp1.cdn.nintendo.net
+ - DOMAIN,bcat-topics-lp1.cdn.nintend.net
+ - DOMAIN,broker.lp1.npns.srv.nintendo.net
+ - DOMAIN-SUFFIX,scsi.srv.nintendo.net
+ - DOMAIN-SUFFIX,shop.nintendo.net
+ - DOMAIN-SUFFIX,eshop.nintendo.net
+ - DOMAIN-SUFFIX,d4c.nintendo.net
