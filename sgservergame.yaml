@@ -1,1 +1,21 @@
-
+Payload:
+# PlayerUnknown's Battlegrounds Asia
+ - IP-CIDR,20.192.0.0/15
+ - IP-CIDR,106.10.48.0/21
+ - IP-CIDR,20.40.0.0/15
+ - IP-CIDR,13.212.0.0/15
+ - DOMAIN-SUFFIX,pubg1.battleye.com
+ - DOMAIN-SUFFIX,crl.identrust.com
+ - DOMAIN-SUFFIX,signcode.pubgbluehole.com
+ - DOMAIN-SUFFIX,crl4.digicert.com
+ - DOMAIN-SUFFIX,scrootca2.ocsp.secomtrust.net
+ - DOMAIN-SUFFIX,zk-pcprod.pubgbluehole.com
+ - DOMAIN-SUFFIX,prod-broker.pubgha.com
+ - DOMAIN-SUFFIX,prod-live-cfentry.playbattlegrounds.com
+ - DOMAIN-SUFFIX,prod-live-front.playbattlegrounds.com
+ - DOMAIN-SUFFIX,pubwxp-mim.vivox.com
+# Tree of Savior SEA
+ - IP-CIDR,52.76.0.0/17
+ - IP-CIDR,52.77.0.0/16
+ - IP-CIDR,18.140.0.0/15
+ 
