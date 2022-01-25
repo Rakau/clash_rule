@@ -12,3 +12,4 @@ payload:
  - IP-CIDR,202.234.0.0/18
 # Yu-Gi-Oh! Master Duel
  - DOMAIN-KEYWORD,ayk-watch
+ - DOMAIN-SUFFIX,ayk-web.mo.konami.net
