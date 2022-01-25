@@ -10,3 +10,5 @@ payload:
  - DOMAIN-SUFFIX,auth.pso2.jp
  - IP-CIDR,210.189.208.0/23
  - IP-CIDR,202.234.0.0/18
+# Yu-Gi-Oh! Master Duel
+ - DOMAIN-SUFFIX,ayk-web.mo.konami.net
