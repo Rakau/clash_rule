@@ -13,5 +13,6 @@ payload:
  - IP-CIDR,34.80.214.175/32
  - IP-CIDR,34.80.235.31/32
  - IP-CIDR,34.80.184.177/32
+ - IP-CIDR,35.185.175.190/32
  - DOMAIN-SUFFIX,ccu-edge.nexon.io
  - DOMAIN-SUFFIX,tw.nexon.com
