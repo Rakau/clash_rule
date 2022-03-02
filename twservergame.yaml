@@ -1,3 +1,6 @@
 payload: 
-# 测试
- - DOMAIN,gf.x-legend.com.tw
+# MABINOGI：HEROES Taiwan Server
+ - IP-CIDR,35.236.150.197/32
+ - IP-CIDR,35.201.193.64/32
+ - IP-CIDR,104.199.205.76/32
+ - IP-CIDR,34.80.162.57/32
