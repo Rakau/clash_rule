@@ -15,3 +15,5 @@ payload:
  - DOMAIN,download.dqx.jp
  - DOMAIN,download.happy.dqx.jp
  - DOMAIN,cache.dqx.jp
+# Nexon Game
+ - DOMAIN-SUFFIX,arenadownload.nexon.com
