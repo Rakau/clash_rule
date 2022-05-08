@@ -2,4 +2,3 @@ payload:
 # League of Legends Mobile
  - DOMAIN-SUFFIX,wr.pvp.net
  - DOMAIN-SUFFIX,riotgames.com
- - IP-CIDR,101.32.0.0/14
