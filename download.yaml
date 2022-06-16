@@ -17,3 +17,6 @@ payload:
  - DOMAIN,cache.dqx.jp
 # Nexon Game
  - DOMAIN-SUFFIX,arenadownload.nexon.com
+# PSO2 JP
+ - DOMAIN,download.pso2.jp
+ 
