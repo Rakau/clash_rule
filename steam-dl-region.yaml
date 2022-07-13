@@ -1,3 +1,14 @@
 payload:
 # 此规则组必须放在已有的steam规则组上面，否则不会生效。此规则可让steam登陆缓存生效（下载节点和入库区域）
  - DOMAIN-SUFFIX,cm.steampowered.com
+ - DOMAIN,dl.steam.clngaa.com
+ - DOMAIN,dl.steam.ksyna.com
+ - DOMAIN,st.dl.bscstorage.net
+ - DOMAIN,st.dl.eccdnx.com
+ - DOMAIN,st.dl.pinyuncloud.com
+ - DOMAIN,steampipe.steamcontent.tnkjmec.com
+ - DOMAIN,steampowered.com.8686c.com
+ - DOMAIN,steamstatic.com.8686c.com
+ - DOMAIN-SUFFIX,steamchina.com
+ - DOMAIN-SUFFIX,steamcontent.com
+ - DOMAIN-SUFFIX,steamusercontent.com
