@@ -1,0 +1,5 @@
+payload:
+# Russian Fishing 4
+ - IP-CIDR,78.155.212.5/32
+ - DOMAIN,api.rf4game.com
+ 
