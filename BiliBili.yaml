@@ -94,7 +94,7 @@ payload:
   - DOMAIN-SUFFIX,biliintl.com
   - DOMAIN-SUFFIX,biliplus.com
   - DOMAIN-SUFFIX,bilivideo.cn
-  - DOMAIN-SUFFIX,bilivideo.com
+#  - DOMAIN-SUFFIX,bilivideo.com
   - DOMAIN-SUFFIX,bilivideo.net
   - DOMAIN-SUFFIX,corari.com
   - DOMAIN-SUFFIX,dyhgames.com
