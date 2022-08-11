@@ -11,6 +11,8 @@ payload:
  - DOMAIN-SUFFIX,shop.nintendo.net
  - DOMAIN-SUFFIX,eshop.nintendo.net
  - DOMAIN-SUFFIX,d4c.nintendo.net
+# Sony Playstation
+ - DOMAIN-SUFFIX,dl.playstation.net
 # Dragon Quest X
  - DOMAIN,download.dqx.jp
  - DOMAIN,download.happy.dqx.jp
