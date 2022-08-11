@@ -24,5 +24,8 @@ payload:
  - DOMAIN-SUFFIX,patchht2.iwplay.com.tw
 # Iwplay Game Taiwan 
  - DOMAIN-SUFFIX,iwandl.iwplay.com.tw
+ - DOMAIN-SUFFIX,images1.iwplay.com.tw
+ - DOMAIN-SUFFIX,images2.iwplay.com.tw
+ - DOMAIN-SUFFIX,ids.iwplay.com.tw 
 # PSO2 JP
  - DOMAIN,download.pso2.jp
