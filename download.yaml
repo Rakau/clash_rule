@@ -19,6 +19,11 @@ payload:
  - DOMAIN,cache.dqx.jp
 # Nexon Game
  - DOMAIN-SUFFIX,arenadownload.nexon.com
+# Tower of Fantasy Taiwan
+ - DOMAIN-SUFFIX,patchht1.iwplay.com.tw
+ - DOMAIN-SUFFIX,patchht2.iwplay.com.tw
+# Iwplay Game Taiwan 
+ - DOMAIN-SUFFIX,iwandl.iwplay.com.tw
 # PSO2 JP
  - DOMAIN,download.pso2.jp
  
