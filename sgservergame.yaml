@@ -19,3 +19,34 @@ payload:
  - IP-CIDR,52.77.0.0/16
  - IP-CIDR,18.140.0.0/15
  - IP-CIDR,13.250.0.0/16
+# Tower of Fantasy Southeast Asia
+ - DOMAIN,sea-01.toweroffantasy-global.com
+ - DOMAIN,sea-02.toweroffantasy-global.com
+ - DOMAIN,sea-03.toweroffantasy-global.com
+ - DOMAIN,sea-04.toweroffantasy-global.com
+ - DOMAIN,sea-05.toweroffantasy-global.com
+ - DOMAIN,sea-06.toweroffantasy-global.com
+ - DOMAIN,sea-07.toweroffantasy-global.com
+ - DOMAIN,sea-08.toweroffantasy-global.com
+ - DOMAIN,sea-09.toweroffantasy-global.com
+ - DOMAIN,sea-10.toweroffantasy-global.com
+ - DOMAIN,sea-11.toweroffantasy-global.com
+ - DOMAIN,sea-12.toweroffantasy-global.com
+ - DOMAIN,sea-13.toweroffantasy-global.com
+ - DOMAIN,sea-14.toweroffantasy-global.com
+ - DOMAIN,sea-15.toweroffantasy-global.com
+ - DOMAIN,sea-16.toweroffantasy-global.com
+ - DOMAIN,sea-17.toweroffantasy-global.com
+ - DOMAIN,sea-18.toweroffantasy-global.com
+ - DOMAIN,sea-19.toweroffantasy-global.com
+ - DOMAIN,sea-20.toweroffantasy-global.com
+ - DOMAIN,sea-21.toweroffantasy-global.com
+ - DOMAIN,sea-22.toweroffantasy-global.com
+ - DOMAIN,sea-23.toweroffantasy-global.com
+ - DOMAIN,sea-24.toweroffantasy-global.com
+ - DOMAIN,sea-25.toweroffantasy-global.com
+ - DOMAIN,sea-26.toweroffantasy-global.com
+ - DOMAIN,sea-27.toweroffantasy-global.com
+ - DOMAIN,sea-28.toweroffantasy-global.com
+ - DOMAIN,sea-29.toweroffantasy-global.com
+ - DOMAIN,sea-30.toweroffantasy-global.com
