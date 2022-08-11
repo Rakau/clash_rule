@@ -16,3 +16,5 @@ payload:
  - IP-CIDR,35.185.175.190/32
  - DOMAIN-SUFFIX,ccu-edge.nexon.io
  - DOMAIN-SUFFIX,tw.nexon.com
+# Tower of Fantasy Taiwan
+ - DOMAIN-SUFFIX,hotta.com.tw
