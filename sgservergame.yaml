@@ -19,7 +19,7 @@ payload:
  - IP-CIDR,52.77.0.0/16
  - IP-CIDR,18.140.0.0/15
  - IP-CIDR,13.250.0.0/16
-# Tower of Fantasy Southeast Asia
+# Tower of Fantasy Global
  - DOMAIN,sea-1.toweroffantasy-global.com
  - DOMAIN,sea-2.toweroffantasy-global.com
  - DOMAIN,sea-3.toweroffantasy-global.com
@@ -50,3 +50,63 @@ payload:
  - DOMAIN,sea-28.toweroffantasy-global.com
  - DOMAIN,sea-29.toweroffantasy-global.com
  - DOMAIN,sea-30.toweroffantasy-global.com
+ - DOMAIN,jp-1.toweroffantasy-global.com
+ - DOMAIN,jp-2.toweroffantasy-global.com
+ - DOMAIN,jp-3.toweroffantasy-global.com
+ - DOMAIN,jp-4.toweroffantasy-global.com
+ - DOMAIN,jp-5.toweroffantasy-global.com
+ - DOMAIN,jp-6.toweroffantasy-global.com
+ - DOMAIN,jp-7.toweroffantasy-global.com
+ - DOMAIN,jp-8.toweroffantasy-global.com
+ - DOMAIN,jp-9.toweroffantasy-global.com
+ - DOMAIN,jp-10.toweroffantasy-global.com
+ - DOMAIN,jp-11.toweroffantasy-global.com
+ - DOMAIN,jp-12.toweroffantasy-global.com
+ - DOMAIN,jp-13.toweroffantasy-global.com
+ - DOMAIN,jp-14.toweroffantasy-global.com
+ - DOMAIN,jp-15.toweroffantasy-global.com
+ - DOMAIN,jp-16.toweroffantasy-global.com
+ - DOMAIN,jp-17.toweroffantasy-global.com
+ - DOMAIN,jp-18.toweroffantasy-global.com
+ - DOMAIN,jp-19.toweroffantasy-global.com
+ - DOMAIN,jp-20.toweroffantasy-global.com
+ - DOMAIN,jp-21.toweroffantasy-global.com
+ - DOMAIN,jp-22.toweroffantasy-global.com
+ - DOMAIN,jp-23.toweroffantasy-global.com
+ - DOMAIN,jp-24.toweroffantasy-global.com
+ - DOMAIN,jp-25.toweroffantasy-global.com
+ - DOMAIN,jp-26.toweroffantasy-global.com
+ - DOMAIN,jp-27.toweroffantasy-global.com
+ - DOMAIN,jp-28.toweroffantasy-global.com
+ - DOMAIN,jp-29.toweroffantasy-global.com
+ - DOMAIN,jp-30.toweroffantasy-global.com
+ - DOMAIN,eu-1.toweroffantasy-global.com
+ - DOMAIN,eu-2.toweroffantasy-global.com
+ - DOMAIN,eu-3.toweroffantasy-global.com
+ - DOMAIN,eu-4.toweroffantasy-global.com
+ - DOMAIN,eu-5.toweroffantasy-global.com
+ - DOMAIN,eu-6.toweroffantasy-global.com
+ - DOMAIN,eu-7.toweroffantasy-global.com
+ - DOMAIN,eu-8.toweroffantasy-global.com
+ - DOMAIN,eu-9.toweroffantasy-global.com
+ - DOMAIN,eu-10.toweroffantasy-global.com
+ - DOMAIN,eu-11.toweroffantasy-global.com
+ - DOMAIN,eu-12.toweroffantasy-global.com
+ - DOMAIN,eu-13.toweroffantasy-global.com
+ - DOMAIN,eu-14.toweroffantasy-global.com
+ - DOMAIN,eu-15.toweroffantasy-global.com
+ - DOMAIN,eu-16.toweroffantasy-global.com
+ - DOMAIN,eu-17.toweroffantasy-global.com
+ - DOMAIN,eu-18.toweroffantasy-global.com
+ - DOMAIN,eu-19.toweroffantasy-global.com
+ - DOMAIN,eu-20.toweroffantasy-global.com
+ - DOMAIN,eu-21.toweroffantasy-global.com
+ - DOMAIN,eu-22.toweroffantasy-global.com
+ - DOMAIN,eu-23.toweroffantasy-global.com
+ - DOMAIN,eu-24.toweroffantasy-global.com
+ - DOMAIN,eu-25.toweroffantasy-global.com
+ - DOMAIN,eu-26.toweroffantasy-global.com
+ - DOMAIN,eu-27.toweroffantasy-global.com
+ - DOMAIN,eu-28.toweroffantasy-global.com
+ - DOMAIN,eu-29.toweroffantasy-global.com
+ - DOMAIN,eu-30.toweroffantasy-global.com
