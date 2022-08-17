@@ -20,15 +20,15 @@ payload:
  - IP-CIDR,18.140.0.0/15
  - IP-CIDR,13.250.0.0/16
 # Tower of Fantasy Southeast Asia
- - DOMAIN,sea-01.toweroffantasy-global.com
- - DOMAIN,sea-02.toweroffantasy-global.com
- - DOMAIN,sea-03.toweroffantasy-global.com
- - DOMAIN,sea-04.toweroffantasy-global.com
- - DOMAIN,sea-05.toweroffantasy-global.com
- - DOMAIN,sea-06.toweroffantasy-global.com
- - DOMAIN,sea-07.toweroffantasy-global.com
- - DOMAIN,sea-08.toweroffantasy-global.com
- - DOMAIN,sea-09.toweroffantasy-global.com
+ - DOMAIN,sea-1.toweroffantasy-global.com
+ - DOMAIN,sea-2.toweroffantasy-global.com
+ - DOMAIN,sea-3.toweroffantasy-global.com
+ - DOMAIN,sea-4.toweroffantasy-global.com
+ - DOMAIN,sea-5.toweroffantasy-global.com
+ - DOMAIN,sea-6.toweroffantasy-global.com
+ - DOMAIN,sea-7.toweroffantasy-global.com
+ - DOMAIN,sea-8.toweroffantasy-global.com
+ - DOMAIN,sea-9.toweroffantasy-global.com
  - DOMAIN,sea-10.toweroffantasy-global.com
  - DOMAIN,sea-11.toweroffantasy-global.com
  - DOMAIN,sea-12.toweroffantasy-global.com
