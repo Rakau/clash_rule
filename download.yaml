@@ -29,3 +29,5 @@ payload:
  - DOMAIN-SUFFIX,ids.iwplay.com.tw 
 # PSO2 JP
  - DOMAIN,download.pso2.jp
+# 消滅都市（しょうめつとし）
+ - DOMAIN-SUFFIX,shoumetsu-assets.gree.net
