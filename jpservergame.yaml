@@ -44,3 +44,5 @@ payload:
 # - DOMAIN,jp-28.toweroffantasy-global.com
 # - DOMAIN,jp-29.toweroffantasy-global.com
 # - DOMAIN,jp-30.toweroffantasy-global.com
+# 消滅都市（しょうめつとし）
+ - DOMAIN-SUFFIX,shoumetsu-ap.wrightflyer.net
