@@ -32,3 +32,5 @@ payload:
  - DOMAIN,download.pso2.jp
 # 消滅都市（しょうめつとし）
  - DOMAIN-SUFFIX,shoumetsu-assets.gree.net
+# Guardian Tales for Nintendo Switch™ Download Server
+ - DOMAIN-SUFFIX,cdn.gt-console.com
