@@ -49,4 +49,5 @@ payload:
 # Guardian Tales for Nintendo Switch™
  - DOMAIN-SUFFIX,api.live.switch.gt-console.com
  - DOMAIN-SUFFIX,kongpub.live.switch.gt-console.com
+ - DOMAIN-SUFFIX,cdn.kongstudios.net
  - DOMAIN-SUFFIX,ip-api.com
