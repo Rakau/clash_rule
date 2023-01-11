@@ -35,3 +35,31 @@ payload:
 # Guardian Tales for Nintendo Switch™ Download Server
  - DOMAIN-SUFFIX,cdn.gt-console.com
  - DOMAIN-SUFFIX,cdn.kongstudios.net
+# EA DL
+ - DOMAIN,ssl-lvlt.cdn.ea.com
+ - DOMAIN,origin-a.akamaihd.net
+# Ubisoft DL
+ - DOMAIN-SUFFIX,cdn.ubi.com
+# Rockstargames DL
+ - DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+# GOG Game DL
+ - DOMAIN,gog-cdn-lumen.secure2.footprint.net
+# Bethesda DL
+ - DOMAIN,download.cdp.bethesda.net
+# HIKARI FIELD DL
+ - DOMAIN,download.hikarifield.co.jp
+ - DOMAIN,client.hikarifield.co.jp
+# Epicgames DL
+ - DOMAIN,download.epicgames.com
+ - DOMAIN,download2.epicgames.com
+ - DOMAIN,download3.epicgames.com
+ - DOMAIN,download4.epicgames.com
+ - DOMAIN,download5.epicgames.com
+ - DOMAIN,download6.epicgames.com
+ - DOMAIN,download7.epicgames.com
+ - DOMAIN,download8.epicgames.com
+ - DOMAIN,download9.epicgames.com
+ - DOMAIN,download10.epicgames.com
+ - DOMAIN,epicgames-download1.akamaized.net
+# Riot games DL
+ - DOMAIN-SUFFIX,dyn.riotcdn.net
