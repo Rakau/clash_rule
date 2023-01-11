@@ -63,3 +63,9 @@ payload:
  - DOMAIN,epicgames-download1.akamaized.net
 # Riot games DL
  - DOMAIN-SUFFIX,dyn.riotcdn.net
+# Xbox games DL
+ - DOMAIN,packagespc.xboxlive.com
+ - DOMAIN,xvcf1.xboxlive.com
+ - DOMAIN,xvcf2.xboxlive.com
+ - DOMAIN,assets1.xboxlive.com
+ - DOMAIN,assets2.xboxlive.com
