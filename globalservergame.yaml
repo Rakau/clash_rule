@@ -4,4 +4,4 @@ payload:
  - DOMAIN,kartdrift.dn.nexoncdn.co.kr 
  - DOMAIN-KEYWORD,kart2
  - PROCESS-NAME,KartDrift
- 
+ - PROCESS-NAME,KartDrift-Win64-Shipping
