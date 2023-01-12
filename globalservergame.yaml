@@ -1,6 +1,7 @@
 payload: 
 # KartRider: Drift
  - DOMAIN,kdacc-tcp.nexon.com
+ - DOMAIN,kartdrift.dn.nexoncdn.co.kr 
  - DOMAIN-KEYWORD,kart2
  - PROCESS-NAME,KartDrift
  
