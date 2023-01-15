@@ -5,6 +5,7 @@ payload:
  - DOMAIN-KEYWORD,kart2
  - PROCESS-NAME,KartDrift
  - PROCESS-NAME,KartDrift-Win64-Shipping
+ - IP-CIDR,3.36.0.0/14
  - IP-CIDR,15.152.0.0/16
  - IP-CIDR,15.164.0.0/15
  - IP-CIDR,16.162.0.0/15
