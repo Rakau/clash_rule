@@ -12,7 +12,9 @@ payload:
  - IP-CIDR,202.234.0.0/18
 # Yu-Gi-Oh! Master Duel
  - DOMAIN-KEYWORD,ayk-watch
+ - DOMAIN-KEYWORD,ayk-pvp
  - DOMAIN-SUFFIX,ayk-web.mo.konami.net
+ - DOMAIN-SUFFIX,ayk-match.mo.konami.net
 # 消滅都市（しょうめつとし）
  - DOMAIN-SUFFIX,shoumetsu-ap.wrightflyer.net
 # Guardian Tales for Nintendo Switch™
