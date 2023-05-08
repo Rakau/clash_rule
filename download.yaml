@@ -7,6 +7,8 @@ payload:
  - DOMAIN,bcat-list-lp1.cdn.nintendo.net
  - DOMAIN,bcat-topics-lp1.cdn.nintend.net
  - DOMAIN,broker.lp1.npns.srv.nintendo.net
+ - DOMAIN,web.sd.lp1.acbaa.srv.nintendo.net
+ - DOMAIN,api-lp1.znc.srv.nintendo.net 
  - DOMAIN-SUFFIX,scsi.srv.nintendo.net
  - DOMAIN-SUFFIX,shop.nintendo.net
  - DOMAIN-SUFFIX,eshop.nintendo.net
