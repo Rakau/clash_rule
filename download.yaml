@@ -72,3 +72,6 @@ payload:
  - DOMAIN,xvcf2.xboxlive.com
  - DOMAIN,assets1.xboxlive.com
  - DOMAIN,assets2.xboxlive.com
+# Bandai Namco
+ - DOMAIN,object-bnolauncher-pf.bandainamco-ol.jp
+ 
