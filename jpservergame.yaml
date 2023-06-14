@@ -27,4 +27,5 @@ payload:
  - DOMAIN,g-ahpatch-prod.blue-protocol.com
  - DOMAIN,xmpp-main.aws.blue-protocol.com
  - DOMAIN,account-api.bandainamcoid.com
+ - DOMAIN,account.bandainamcoid.com 
  - DST-PORT,7704
