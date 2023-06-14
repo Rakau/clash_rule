@@ -21,5 +21,7 @@ payload:
  - DOMAIN,api-bnolauncher.bandainamco-ol.jp
  - DOMAIN,datastore-main.aws.blue-protocol.com
  - DOMAIN,flg-main.aws.blue-protocol.com
- - DOMAIN,masterdata-main.aws.blue-protocol.com
  - DOMAIN,object-bnolauncher-ct.bandainamco-ol.jp
+ - DOMAIN,g-ahpatch-prod.blue-protocol.com
+ - DOMAIN,xmpp-main.aws.blue-protocol.com
+ 
