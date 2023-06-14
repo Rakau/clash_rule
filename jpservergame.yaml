@@ -29,4 +29,4 @@ payload:
  - DOMAIN,account-api.bandainamcoid.com
  - DOMAIN,account.bandainamcoid.com
  - DOMAIN-SUFFIX,ap-northeast-1.compute.amazonaws.com
- - DST-PORT,7700-7720
+# - DST-PORT,7700-7720
