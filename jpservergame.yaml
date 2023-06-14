@@ -28,11 +28,5 @@ payload:
  - DOMAIN,xmpp-main.aws.blue-protocol.com
  - DOMAIN,account-api.bandainamcoid.com
  - DOMAIN,account.bandainamcoid.com
- - IP-CIDR,35.77.33.1/32
- - IP-CIDR,13.230.199.125/32
- - IP-CIDR,18.182.56.120/32
- - IP-CIDR,18.183.54.253/32
- - IP-CIDR,18.183.71.109/32 
- - IP-CIDR,52.199.39.127/32
- - IP-CIDR,52.199.186.43/32
+ - DOMAIN-SUFFIX,ap-northeast-1.compute.amazonaws.com
  - DST-PORT,7700-7720
