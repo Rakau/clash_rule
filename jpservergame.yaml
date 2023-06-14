@@ -20,4 +20,4 @@ payload:
 # Bandai Namco
  - DOMAIN,api-bnolauncher.bandainamco-ol.jp
  - DOMAIN,datastore-main.aws.blue-protocol.com
- 
+ - DOMAIN,object-bnolauncher-ct.bandainamco-ol.jp
