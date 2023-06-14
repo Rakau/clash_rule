@@ -19,5 +19,7 @@ payload:
  - DOMAIN-SUFFIX,shoumetsu-ap.wrightflyer.net
 # Bandai Namco
  - DOMAIN,api-bnolauncher.bandainamco-ol.jp
- - DOMAIN-SUFFIX,aws.blue-protocol.com
+ - DOMAIN,datastore-main.aws.blue-protocol.com
+ - DOMAIN,flg-main.aws.blue-protocol.com
+ - DOMAIN,masterdata-main.aws.blue-protocol.com
  - DOMAIN,object-bnolauncher-ct.bandainamco-ol.jp
