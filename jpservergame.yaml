@@ -4,6 +4,7 @@ payload:
  - IP-CIDR,124.150.152.0/21
  - IP-CIDR,202.67.48.0/20
  - IP-CIDR,219.117.144.0/20
+ - PROCESS-NAME,DQXGame
 # Phantasy Star Online 2
  - DOMAIN-SUFFIX,pso2gs.net
  - DOMAIN-SUFFIX,launcher.pso2.jp
@@ -15,6 +16,7 @@ payload:
  - DOMAIN-KEYWORD,ayk-pvp
  - DOMAIN-SUFFIX,ayk-web.mo.konami.net
  - DOMAIN-SUFFIX,ayk-match.mo.konami.net
+ - PROCESS-NAME,masterduel
 # 消滅都市（しょうめつとし）
  - DOMAIN-SUFFIX,shoumetsu-ap.wrightflyer.net
 # Bandai Namco
@@ -25,4 +27,4 @@ payload:
  - DOMAIN,g-ahpatch-prod.blue-protocol.com
  - DOMAIN,xmpp-main.aws.blue-protocol.com
  - DST-PORT,7704
- - PROCESS-NAME,BLUEPROTOCOL
+ 
