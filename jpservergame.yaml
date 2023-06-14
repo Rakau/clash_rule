@@ -26,5 +26,5 @@ payload:
  - DOMAIN,object-bnolauncher-ct.bandainamco-ol.jp
  - DOMAIN,g-ahpatch-prod.blue-protocol.com
  - DOMAIN,xmpp-main.aws.blue-protocol.com
+ - DOMAIN,account-api.bandainamcoid.com
  - DST-PORT,7704
- 
