@@ -32,5 +32,5 @@ payload:
 # Goose Goose Duck
  - DOMAIN-KEYWORD,gaggle
 # Guardian Tales for Nintendo Switch™ Download Server
- - DOMAIN,api.live.switch.gt-console.com
+ - DOMAIN-SUFFIX,live.switch.gt-console.com
  
