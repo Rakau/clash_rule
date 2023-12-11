@@ -14,6 +14,7 @@ payload:
 # Yu-Gi-Oh! Master Duel
  - DOMAIN-KEYWORD,ayk-watch
  - DOMAIN-KEYWORD,ayk-pvp
+ - DOMAIN-KEYWORD,ayk-stm
  - DOMAIN-SUFFIX,ayk-web.mo.konami.net
  - DOMAIN-SUFFIX,ayk-match.mo.konami.net
  - PROCESS-NAME,masterduel
