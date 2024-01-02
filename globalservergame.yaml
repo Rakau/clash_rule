@@ -31,6 +31,6 @@ payload:
  - IP-CIDR,156.59.174.0/23
 # Goose Goose Duck
  - DOMAIN-KEYWORD,gaggle
-# Guardian Tales for Nintendo Switch™ Download Server
- - DOMAIN-SUFFIX,switch.gt-console.com
- 
+# Guardian Tales for Nintendo Switch™ live Server
+ - DOMAIN-SUFFIX,kongpub.live.switch.gt-console.com
+ - DOMAIN-SUFFIX,coop.live.switch.gt-console.com
