@@ -1,6 +1,7 @@
 payload:
-# Dragon Quest X
+# Dragon Quest X Online
  - DOMAIN-SUFFIX,dqx.jp
+ - DOMAIN,dqx-login.square-enix.com
  - IP-CIDR,124.150.152.0/21
  - IP-CIDR,202.67.48.0/20
  - IP-CIDR,219.117.144.0/20
