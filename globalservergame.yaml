@@ -34,3 +34,6 @@ payload:
 # Guardian Tales for Nintendo Switch™ live Server
  - DOMAIN-SUFFIX,kongpub.live.switch.gt-console.com
  - DOMAIN-SUFFIX,coop.live.switch.gt-console.com
+# 老屁谷 Maplestory
+ - DOMAIN-SUFFIX,ppms118.net
+ 
