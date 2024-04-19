@@ -2,3 +2,6 @@ payload:
  - DOMAIN,dns.weixin.qq.com
  - DOMAIN,dns.weixin.qq.com.cn
  - DOMAIN-KEYWORD,short.weixin.qq.com
+ - AND,((PROCESS-NAME,com.tencent.mm),(DST-PORT,8080))
+ - AND,((PROCESS-NAME,com.tencent.mm),(DST-PORT,80))
+ 
