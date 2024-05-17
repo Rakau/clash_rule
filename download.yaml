@@ -47,6 +47,7 @@ payload:
  - DOMAIN-SUFFIX,cdn.ubi.com
 # Rockstargames DL
  - DOMAIN,gamedownloads-rockstargames-com.akamaized.net
+ - DOMAIN,gamedownloads.rockstargames.com
 # GOG Game DL
  - DOMAIN,gog-cdn-lumen.secure2.footprint.net
 # Bethesda DL
