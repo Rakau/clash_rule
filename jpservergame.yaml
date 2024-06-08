@@ -25,6 +25,7 @@ payload:
  - PROCESS-NAME,masterduel.exe
 # 消滅都市（しょうめつとし）
  - DOMAIN-SUFFIX,shoumetsu-ap.wrightflyer.net
+ - PROCESS-NAME,net.wrightflyer.shoumetsu
 # Bandai Namco
  - DOMAIN,api-bnolauncher.bandainamco-ol.jp
  - DOMAIN,datastore-main.aws.blue-protocol.com
@@ -37,4 +38,5 @@ payload:
  - DOMAIN-SUFFIX,ap-northeast-1.compute.amazonaws.com
  - DOMAIN,strix-proxy-main.aws.blue-protocol.com
  - DOMAIN,party-main.aws.blue-protocol.com
-# - DST-PORT,7700-7720
+ - PROCESS-NAME,blue-protocol.exe
+
