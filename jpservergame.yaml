@@ -22,7 +22,7 @@ payload:
  - DOMAIN-KEYWORD,ayk-stm
  - DOMAIN-SUFFIX,ayk-web.mo.konami.net
  - DOMAIN-SUFFIX,ayk-match.mo.konami.net
- - PROCESS-NAME,masterduel
+ - PROCESS-NAME,masterduel.exe
 # 消滅都市（しょうめつとし）
  - DOMAIN-SUFFIX,shoumetsu-ap.wrightflyer.net
 # Bandai Namco
