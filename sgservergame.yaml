@@ -17,7 +17,6 @@ payload:
 # Tree of Savior
  - IP-CIDR,52.76.0.0/17
  - IP-CIDR,52.77.0.0/16
- - PROCESS-NAME,pso2.exe
  - PROCESS-NAME,Client_tos.exe
  - PROCESS-NAME,Client_tos_x64.exe
 # Tower of Fantasy Global
