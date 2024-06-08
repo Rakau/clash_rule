@@ -3,34 +3,11 @@ payload:
  - DOMAIN,kdacc-tcp.nexon.com
  - DOMAIN,kartdrift.dn.nexoncdn.co.kr 
  - DOMAIN-KEYWORD,kart2
- - PROCESS-NAME,KartDrift
- - PROCESS-NAME,KartDrift-Win64-Shipping
- - IP-CIDR,3.36.0.0/14
- - IP-CIDR,15.152.0.0/16
- - IP-CIDR,15.164.0.0/15
- - IP-CIDR,16.162.0.0/15
- - IP-CIDR,18.162.0.0/16
- - IP-CIDR,18.163.0.0/16
- - IP-CIDR,18.166.0.0/15
- - IP-CIDR,34.80.0.0/14
- - IP-CIDR,35.184.0.0/14
- - IP-CIDR,35.192.0.0/14
- - IP-CIDR,35.200.0.0/14
- - IP-CIDR,35.220.0.0/14
- - IP-CIDR,35.232.0.0/14
- - IP-CIDR,35.236.0.0/14 
- - IP-CIDR,43.198.0.0/15
- - IP-CIDR,43.200.0.0/14
- - IP-CIDR,45.43.38.0/23 
- - IP-CIDR,52.192.0.0/15
- - IP-CIDR,52.78.0.0/16
- - IP-CIDR,54.180.0.0/15
- - IP-CIDR,104.196.0.0/14
- - IP-CIDR,107.167.160.0/19
- - IP-CIDR,128.1.0.0/16
- - IP-CIDR,156.59.174.0/23
+ - PROCESS-NAME,KartDrift.exe
+ - PROCESS-NAME,KartDrift-Win64-Shipping.exe
 # Goose Goose Duck
  - DOMAIN-KEYWORD,gaggle
+ - PROCESS-NAME,Goose Goose Duck.exe
 # Guardian Tales for Nintendo Switch™ live Server
  - DOMAIN-SUFFIX,kongpub.live.switch.gt-console.com
  - DOMAIN-SUFFIX,coop.live.switch.gt-console.com
