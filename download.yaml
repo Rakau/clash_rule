@@ -79,4 +79,6 @@ payload:
  - DOMAIN,object-bnolauncher-pf.bandainamco-ol.jp
  - DOMAIN,clientpatch.aws.blue-protocol.com
  - DOMAIN,masterdata-main.aws.blue-protocol.com
+# Tree of Savior
+ - PROCESS-NAME,tos.exe
  
