@@ -14,11 +14,12 @@ payload:
  - IP-CIDR,106.10.48.0/21
  - IP-CIDR,20.40.0.0/15
  - IP-CIDR,13.212.0.0/15 
-# Tree of Savior SEA
+# Tree of Savior
  - IP-CIDR,52.76.0.0/17
  - IP-CIDR,52.77.0.0/16
- - IP-CIDR,18.140.0.0/15
- - IP-CIDR,13.250.0.0/16
+ - PROCESS-NAME,pso2.exe
+ - PROCESS-NAME,Client_tos.exe
+ - PROCESS-NAME,Client_tos_x64.exe
 # Tower of Fantasy Global
  - DOMAIN,sea-1.toweroffantasy-global.com
  - DOMAIN,sea-2.toweroffantasy-global.com
