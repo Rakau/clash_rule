@@ -110,3 +110,7 @@ payload:
  - DOMAIN,eu-28.toweroffantasy-global.com
  - DOMAIN,eu-29.toweroffantasy-global.com
  - DOMAIN,eu-30.toweroffantasy-global.com
+# MapleOrigin
+ - IP-CIDR,121.52.202.0/24
+ - IP-CIDR,51.79.228.113/32
+ 
