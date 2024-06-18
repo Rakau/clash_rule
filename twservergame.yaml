@@ -20,3 +20,6 @@ payload:
  - DOMAIN-SUFFIX,hotta.com.tw
  - DOMAIN-SUFFIX,serverlistht1.iwplay.com.tw
  - DOMAIN-SUFFIX,serverlistht2.iwplay.com.tw
+# 星天谷 Maplestory
+ - IP-CIDR,34.80.227.118/32
+ 
