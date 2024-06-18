@@ -18,6 +18,3 @@ payload:
  - DOMAIN-SUFFIX,tw.ddoscloud.cc
  - DOMAIN-SUFFIX,vip.ddoscloud.cc
  - IP-CIDR,61.221.57.34/32
-# 貓貓谷 Maplestory 
- - IP-CIDR,104.16.99.249/32
- 
