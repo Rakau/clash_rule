@@ -81,4 +81,6 @@ payload:
  - DOMAIN,masterdata-main.aws.blue-protocol.com
 # Tree of Savior
  - PROCESS-NAME,tos.exe
+# Gamania
+ - AND,((DOMAIN-KEYWORD,beanfun.com),(DOMAIN-KEYWORD,download))
  
