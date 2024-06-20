@@ -1,4 +1,13 @@
 payload: 
+# Gamania
+ - DOMAIN,tw.beanfun.com
+ - DOMAIN,event.beanfun.com
+ - DOMAIN,bfweb.hk.beanfun.com
+ - DOMAIN,tw.newlogin.beanfun.com
+ - DOMAIN,login.hk.beanfun.com
+ - DOMAIN,tw.login.maplestory.beanfun.com
+ - DOMAIN,tw.images.beanfun.com
+ - DOMAIN,tw.loginT.maplestory.beanfun.com 
 # MABINOGI：HEROES Taiwan Server
  - IP-CIDR,35.236.150.197/32
  - IP-CIDR,35.201.193.64/32
@@ -14,7 +23,7 @@ payload:
  - IP-CIDR,34.80.235.31/32
  - IP-CIDR,34.80.184.177/32
  - IP-CIDR,35.185.175.190/32
-# Nexon Tw Server 
+# Nexon Taiwan Server 
  - DOMAIN-SUFFIX,tw.nexon.com
 # Tower of Fantasy Taiwan
  - DOMAIN-SUFFIX,hotta.com.tw
@@ -22,4 +31,6 @@ payload:
  - DOMAIN-SUFFIX,serverlistht2.iwplay.com.tw
 # 星天谷 Maplestory
  - IP-CIDR,34.80.227.118/32
+# 新楓之谷 Taiwan Maplestory Server
+ - AND,((IP-ASN,7532),(DST-PORT,8086/8484/8585))
  
