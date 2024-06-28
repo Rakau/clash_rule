@@ -32,5 +32,5 @@ payload:
 # 星天谷 Maplestory
  - IP-CIDR,34.80.227.118/32
 # 新楓之谷 Taiwan Maplestory Server (Using a fake IP will cause the login screen to crash. It is recommended to exclude [tw.login.maplestory.beanfun.com] from the fake IP range)
- - AND,((IP-ASN,7532),(DST-PORT,8086/8484/8585))
+ - AND,((IP-ASN,7532),(DST-PORT,8086/8484/8585/8686))
  
