@@ -29,7 +29,9 @@ payload:
  - DOMAIN-SUFFIX,hotta.com.tw
  - DOMAIN-SUFFIX,serverlistht1.iwplay.com.tw
  - DOMAIN-SUFFIX,serverlistht2.iwplay.com.tw
-# 星天谷 Maplestory
- - IP-CIDR,34.80.227.118/32
+ - AND,((DOMAIN-KEYWORD,iwplay.com.tw),(DOMAIN-KEYWORD,serverlistht)) 
 # 新楓之谷 Taiwan Maplestory Server (Using a fake IP will cause the login screen to crash. It is recommended to exclude [tw.login.maplestory.beanfun.com] from the fake IP range)
  - AND,((IP-ASN,7532),(DST-PORT,8086/8484/8585/8686/8787))
+# 乖離性百萬亞瑟王：環 Kai-ri-Sei Million Arthur Ring Iwplay Taiwan Server
+ - DOMAIN-SUFFIX,million-arthur-ring.com.tw
+ 
