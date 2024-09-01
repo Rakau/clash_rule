@@ -30,8 +30,8 @@ payload:
  - DOMAIN-SUFFIX,patchht2.iwplay.com.tw
 # Iwplay Game Taiwan 
  - DOMAIN-SUFFIX,iwandl.iwplay.com.tw
- - DOMAIN-SUFFIX,images1.iwplay.com.tw
- - DOMAIN-SUFFIX,images2.iwplay.com.tw
+ - AND,((DOMAIN-KEYWORD,iwplay.com.tw),(DOMAIN-KEYWORD,images))
+ - AND,((DOMAIN-KEYWORD,iwplay.com.tw),(DOMAIN-KEYWORD,patch))
  - DOMAIN-SUFFIX,ids.iwplay.com.tw 
 # PSO2 JP
  - DOMAIN,download.pso2.jp
@@ -56,17 +56,8 @@ payload:
  - DOMAIN,download.hikarifield.co.jp
  - DOMAIN,client.hikarifield.co.jp
 # Epicgames DL
- - DOMAIN,download.epicgames.com
- - DOMAIN,download2.epicgames.com
- - DOMAIN,download3.epicgames.com
- - DOMAIN,download4.epicgames.com
- - DOMAIN,download5.epicgames.com
- - DOMAIN,download6.epicgames.com
- - DOMAIN,download7.epicgames.com
- - DOMAIN,download8.epicgames.com
- - DOMAIN,download9.epicgames.com
- - DOMAIN,download10.epicgames.com
- - DOMAIN,epicgames-download1.akamaized.net
+ - AND,((DOMAIN-KEYWORD,epicgames.com),(DOMAIN-KEYWORD,download))
+ - AND,((DOMAIN-KEYWORD,akamaized.net),(DOMAIN-KEYWORD,epicgames-download))
 # Riot games DL
  - DOMAIN-SUFFIX,dyn.riotcdn.net
 # Xbox games DL
@@ -75,10 +66,6 @@ payload:
  - DOMAIN,xvcf2.xboxlive.com
  - DOMAIN,assets1.xboxlive.com
  - DOMAIN,assets2.xboxlive.com
-# Bandai Namco
- - DOMAIN,object-bnolauncher-pf.bandainamco-ol.jp
- - DOMAIN,clientpatch.aws.blue-protocol.com
- - DOMAIN,masterdata-main.aws.blue-protocol.com
 # Tree of Savior
  - PROCESS-NAME,tos.exe
 # Gamania
