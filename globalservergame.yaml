@@ -12,9 +12,3 @@ payload:
  - DOMAIN-SUFFIX,kongpub.live.switch.gt-console.com
  - DOMAIN-SUFFIX,coop.live.switch.gt-console.com
  - DOMAIN-SUFFIX,api.live.switch.gt-console.com
-# 老屁谷 Maplestory
- - DOMAIN-SUFFIX,ppms118.net
- - DOMAIN-SUFFIX,ppms118.com
- - DOMAIN-SUFFIX,tw.ddoscloud.cc
- - DOMAIN-SUFFIX,vip.ddoscloud.cc
- - IP-CIDR,61.221.57.34/32
