@@ -26,17 +26,3 @@ payload:
 # 消滅都市（しょうめつとし）
  - DOMAIN-SUFFIX,shoumetsu-ap.wrightflyer.net
  - PROCESS-NAME,net.wrightflyer.shoumetsu
-# Bandai Namco
- - DOMAIN,api-bnolauncher.bandainamco-ol.jp
- - DOMAIN,datastore-main.aws.blue-protocol.com
- - DOMAIN,flg-main.aws.blue-protocol.com
- - DOMAIN,object-bnolauncher-ct.bandainamco-ol.jp
- - DOMAIN,g-ahpatch-prod.blue-protocol.com
- - DOMAIN,xmpp-main.aws.blue-protocol.com
- - DOMAIN,account-api.bandainamcoid.com
- - DOMAIN,account.bandainamcoid.com
- - DOMAIN-SUFFIX,ap-northeast-1.compute.amazonaws.com
- - DOMAIN,strix-proxy-main.aws.blue-protocol.com
- - DOMAIN,party-main.aws.blue-protocol.com
- - PROCESS-NAME,blue-protocol.exe
-
