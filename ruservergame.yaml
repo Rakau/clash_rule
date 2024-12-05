@@ -3,3 +3,6 @@ payload:
  - DOMAIN-KEYWORD,rf4game
  - PROCESS-NAME,rf4_x64.exe
  - PROCESS-NAME,RF4Launcher.exe
+ - AND,((IP-ASN,199860),(DST-PORT,9300-9499))
+ - AND,((IP-ASN,213166),(DST-PORT,9300-9499))
+ 
