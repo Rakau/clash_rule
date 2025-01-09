@@ -71,3 +71,6 @@ payload:
 # Gamania
  - AND,((DOMAIN-KEYWORD,beanfun.com),(DOMAIN-KEYWORD,download))
  - AND,((DOMAIN-KEYWORD,beanfun.com),(DOMAIN-KEYWORD,cdnpatch))
+# kakaogames
+ - AND,((DOMAIN-KEYWORD,kakaogames.com),(DOMAIN-KEYWORD,patch))
+ 
