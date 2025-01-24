@@ -11,6 +11,7 @@ payload:
  - DOMAIN,tw.hicdn.beanfun.com
  - DOMAIN,chat-content.beanfun.com
  - DOMAIN,maplestory.beanfun.com
+ - DOMAIN,tw-event.beanfun.com
 # MABINOGI：HEROES Taiwan Server
  - IP-CIDR,35.236.150.197/32
  - IP-CIDR,35.201.193.64/32
