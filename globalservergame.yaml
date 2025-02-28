@@ -13,8 +13,8 @@ payload:
  - DOMAIN-SUFFIX,coop.live.switch.gt-console.com
  - DOMAIN-SUFFIX,api.live.switch.gt-console.com
 # Tree of Savior
- - IP-CIDR,52.76.0.0/17
- - IP-CIDR,52.77.0.0/16
+ - AND,((IP-ASN,AS16509),(DST-PORT,7000-7009),(DST-PORT,9000-9009))
+ - AND,((IP-ASN,AS14618),(DST-PORT,7000-7009),(DST-PORT,9000-9009)) 
  - PROCESS-NAME,Client_tos.exe
  - PROCESS-NAME,Client_tos_x64.exe
  
