@@ -14,11 +14,6 @@ payload:
  - IP-CIDR,106.10.48.0/21
  - IP-CIDR,20.40.0.0/15
  - IP-CIDR,13.212.0.0/15 
-# Tree of Savior
- - IP-CIDR,52.76.0.0/17
- - IP-CIDR,52.77.0.0/16
- - PROCESS-NAME,Client_tos.exe
- - PROCESS-NAME,Client_tos_x64.exe
 # Tower of Fantasy Global
  - AND,((DOMAIN-KEYWORD,toweroffantasy-global.com),(DOMAIN-KEYWORD,sea))
  - AND,((DOMAIN-KEYWORD,toweroffantasy-global.com),(DOMAIN-KEYWORD,eu))
