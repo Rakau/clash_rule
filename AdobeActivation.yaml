@@ -62,7 +62,7 @@ payload:
   - DOMAIN,na1r.services.adobe.com
   - DOMAIN,na2m-pr.licenses.adobe.com
   - DOMAIN,ood.opsource.net
-  - DOMAIN-SUFFIX,pkxns.adobestats.io
+  - DOMAIN-SUFFIX,adobestats.io
   - DOMAIN,practivate.adobe
   - DOMAIN,practivate.adobe.com
   - DOMAIN,practivate.adobe.ipp
