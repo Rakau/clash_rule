@@ -1,11 +1,10 @@
 payload:
-  - DOMAIN,1b9khekel6.adobe.io
+  - DOMAIN-SUFFIX,adobe.io
   - DOMAIN,3dns-1.adobe.com
   - DOMAIN,3dns-2.adobe.com
   - DOMAIN,3dns-3.adobe.com
   - DOMAIN,3dns-4.adobe.com
   - DOMAIN,3dns.adobe.com
-  - DOMAIN,9ngulmtgqi.adobe.io
   - DOMAIN,activate-sea.adobe.com
   - DOMAIN,activate-sjc0.adobe.com
   - DOMAIN,activate.adobe.com
@@ -29,8 +28,6 @@ payload:
   - DOMAIN,auth-cloudfront.prod.ims.adobejanus.com
   - DOMAIN,auth.services.adobe.com
   - DOMAIN,bam.nr-data.net
-  - DOMAIN,cai-splunk-proxy.adobe.io
-  - DOMAIN,cc-api-data.adobe.io
   - DOMAIN,cc-cdn.adobe.com
   - DOMAIN,cc-cdn.adobe.com.edgekey.net
   - DOMAIN,cclibraries-defaults-cdn.adobe.com
@@ -39,7 +36,6 @@ payload:
   - DOMAIN,crl.verisign.net
   - DOMAIN,crlog-crcn.adobe.com
   - DOMAIN,crs.cr.adobe.com
-  - DOMAIN,edgeproxy-irl1.cloud.adobe.io
   - DOMAIN,ereg.adobe.com
   - DOMAIN,ereg.wip.adobe.com
   - DOMAIN,ereg.wip1.adobe.com
@@ -50,13 +46,9 @@ payload:
   - DOMAIN,ffc-static-cdn.oobesaas.adobe.com  
   - DOMAIN,genuine.adobe.com
   - DOMAIN,geo2.adobe.com
-  - DOMAIN,hbc.adobe.io  
   - DOMAIN,hl2rcv.adobe.com
   - DOMAIN,hlrcv.stage.adobe.com  
-  - DOMAIN,ic.adobe.io
   - DOMAIN,k.sni.global.fastly.net
-  - DOMAIN,lcs-cops.adobe.io
-  - DOMAIN,lcs-robs.adobe.io
   - DOMAIN,lm.licenses.adobe.com
   - DOMAIN,lmlicenses.wip4.adobe.com
   - DOMAIN,na1r.services.adobe.com
@@ -69,8 +61,7 @@ payload:
   - DOMAIN,practivate.adobe.newoa
   - DOMAIN,practivate.adobe.ntp
   - DOMAIN,prod.adobegenuine.com
-  - DOMAIN,prod.adobeccstatic.com 
-  - DOMAIN,pv2bqhsp36w.prod.cloud.adobe.io
+  - DOMAIN,prod.adobeccstatic.com
   - DOMAIN,services.prod.ims.adobejanus.com
   - DOMAIN,ssl-delivery.adobe.com.edgekey.net
   - DOMAIN,sstats.adobe.com
