@@ -14,6 +14,7 @@ payload:
  - DOMAIN-SUFFIX,shop.nintendo.net
  - DOMAIN-SUFFIX,eshop.nintendo.net
  - DOMAIN-SUFFIX,d4c.nintendo.net
+ - DOMAIN-SUFFIX,d4c.srv.nintendo.net
 # Sony Playstation
  - DOMAIN-SUFFIX,dl.playstation.net
 # Square Enix
