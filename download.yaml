@@ -74,5 +74,5 @@ payload:
  - AND,((DOMAIN-KEYWORD,beanfun.com),(DOMAIN-KEYWORD,cdnpatch))
 # kakaogames
  - AND,((DOMAIN-KEYWORD,kakaogames.com),(DOMAIN-KEYWORD,patch))
-# Purple tw Download
+# ncsoft tw Download
  - DOMAIN-SUFFIX,cdn.plaync.com.tw
