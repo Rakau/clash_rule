@@ -75,4 +75,7 @@ payload:
 # kakaogames
  - AND,((DOMAIN-KEYWORD,kakaogames.com),(DOMAIN-KEYWORD,patch))
 # ncsoft tw Download
- - DOMAIN-SUFFIX,cdn.plaync.com.tw
+ - AND,((DOMAIN-KEYWORD,playnccdn.com),(DOMAIN-KEYWORD,download)) 
+ - AND,((DOMAIN-KEYWORD,playnccdn.com),(DOMAIN-KEYWORD,cdn))
+ - AND,((DOMAIN-KEYWORD,plaync.com.tw),(DOMAIN-KEYWORD,cdn))
+ 
