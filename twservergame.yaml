@@ -36,8 +36,8 @@ payload:
  - AND,((DOMAIN-KEYWORD,iwplay.com.tw),(DOMAIN-KEYWORD,serverlistht)) 
 # 新楓之谷 Taiwan Maplestory Server (Using a fake IP will cause the login screen to crash. It is recommended to exclude [tw.login.maplestory.beanfun.com] from the fake IP range)
  - AND,((IP-ASN,7532),(DST-PORT,8086/8484/8585/8686/8787))
-# 乖離性百萬亞瑟王：環 Kai-ri-Sei Million Arthur Ring Iwplay Taiwan Server
- - DOMAIN-SUFFIX,million-arthur-ring.com.tw
- # 新瑪奇 Taiwan Mabinogi Server
+# 新瑪奇 Taiwan Mabinogi Server
  - AND,((IP-ASN,7532),(DST-PORT,8002/8003/8004/11000/11020/11021/11022/11023/11077))
+# NCSOFT Taiwan 
+ - AND,((IP-ASN,142005),(DST-PORT,6600))
  
